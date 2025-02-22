@@ -8,7 +8,7 @@
     https://youtu.be/
 
 # *Objetivo:* 
-Realizar la simulación y configuración de la red universitaria en un entorno de simulación (Packet Tracer, GNS3, u otro), asegurando que se cumplan los siguientes requisitos asignados en el taller.
+Realizar la simulación y configuración de la red universitaria en un entorno de simulación (Packet Tracer, GNS3, u otro), asegurando que se cumplan los siguientes requisitos asignados en el taller guía.
 
 # *Instalaciones requeridas:*
   • Descarga de Cisco Packet Tracer:
@@ -25,10 +25,10 @@ Realizar la simulación y configuración de la red universitaria en un entorno d
     4. Verificar la comunicación entre los dispositivos mediante pruebas de conectividad (ej. comandos ping).
 
 ## *Entregable:*
-• Archivo de la simulación en formato .pkt (Packet Tracer) del archivo correspondiente.
-• Capturas de pantalla (evidencias).
-• La configuración de direcciones IP en los equipos.
-• Pruebas de conectividad entre dispositivos.
+• Archivo de la simulación en formato .pkt (Packet Tracer) del archivo correspondiente.\
+• Capturas de pantalla (evidencias).\
+• La configuración de direcciones IP en los equipos.\
+• Pruebas de conectividad entre dispositivos.\
 • Informe explicando el proceso de configuración y los resultados obtenidos.
 
 
