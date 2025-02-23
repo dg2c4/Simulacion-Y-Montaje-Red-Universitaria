@@ -1,6 +1,6 @@
 # *Simulación-Y-Montaje-Red-Universitaria*
 <p align="center">
-  <img width="700" height="550" src="https://github.com/dg2c4/Simulacion-Y-Montaje-Red-Universitaria/blob/main/Assets/RedesSolution.png" alt="Redes">
+  <img width="700" height="450" src="https://github.com/dg2c4/Simulacion-Y-Montaje-Red-Universitaria/blob/main/Assets/RedesSolution.png" alt="Redes">
 </p>
 
 ## Link del trabajo realizado:
