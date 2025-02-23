@@ -45,4 +45,4 @@ Realizar la simulación y configuración de la red universitaria en un entorno d
 ## Created By:
     https://github.com/dg2c4
     
-### *Date: 21/02/2025 - 22/02/2025*
+### *Date: 21/02/2025 - 23/02/2025*
