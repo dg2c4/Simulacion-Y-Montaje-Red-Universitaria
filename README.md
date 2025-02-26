@@ -29,11 +29,11 @@ Realizar la simulación y configuración de la red universitaria en un entorno d
     4. Verificar la comunicación entre los dispositivos mediante pruebas de conectividad (ej. comandos ping).
 
 # *Paso generales del documento:*
-  • Paso #1: Diseñar la topología en Packet Tracer.\
-  • Paso #2: Configurar las conexiones físicas.\
-  • Paso #3: Configurar direcciones IP en las PC's.\
-  • Paso #4: Configurar el router.\
-  • Paso #5: Pruebas de conectividad.
+  Paso #1: Diseñar la topología en Packet Tracer.\
+  Paso #2: Configurar las conexiones físicas.\
+  Paso #3: Configurar direcciones IP en las PC's.\
+  Paso #4: Configurar el router.\
+  Paso #5: Pruebas de conectividad.
 
 ## *Entregable:*
 • Archivo de la simulación en formato .pkt (Packet Tracer) del archivo correspondiente.\
