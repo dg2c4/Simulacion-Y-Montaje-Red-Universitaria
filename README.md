@@ -6,7 +6,7 @@
 ## Link del trabajo realizado:
     https://youtu.be/
 
-# *Objetivo:* 
+## *Objetivo:* 
 Realizar la simulación y configuración de la red universitaria en un entorno de simulación Packet Tracer, asegurando que se cumplan los requisitos asignados en el taller guía.\
 *Nota: Leer la documentación adjunta del "Accest".*
 
@@ -14,12 +14,12 @@ Realizar la simulación y configuración de la red universitaria en un entorno d
   <img width="700" height="350" src="https://github.com/dg2c4/Simulacion-Y-Montaje-Red-Universitaria/blob/main/Assets/Redes.png" alt="Redes-Guía">
 </p>
 
-# *Instalaciones requeridas:*
+## *Instalaciones requeridas:*
   • Descarga de Cisco Packet Tracer:
   
     https://learningnetwork.cisco.com/s/article/el-software-de-simulacion-cisco-packet-tracer
 
-# *Pasos a seguir:*
+## *Pasos a seguir:*
     1. Diseñar y configurar tres subredes a partir de una red base.
     2. Conectar tres equipos por subred, asignándoles las siguientes direcciones IP:
       a. Primer equipo: Primera dirección IP utilizable de la subred.
@@ -28,7 +28,7 @@ Realizar la simulación y configuración de la red universitaria en un entorno d
     3. Configurar la conectividad entre las subredes utilizando un router o switch multicapa según corresponda.
     4. Verificar la comunicación entre los dispositivos mediante pruebas de conectividad (ej. comandos ping).
 
-# *Paso generales del documento:*
+## *Paso generales del documento:*
   Paso #1: Diseñar la topología en Packet Tracer.\
   Paso #2: Configurar las conexiones físicas.\
   Paso #3: Configurar direcciones IP en las PC's.\
@@ -43,7 +43,7 @@ Realizar la simulación y configuración de la red universitaria en un entorno d
 • Informe explicando el proceso de configuración y los resultados obtenidos.
 
 
-# *Systems engineering:*
+## *Systems engineering:*
 | User: | David Gutierrez Chaves |
 |------|--------|
 | Code: | 506222728 |
@@ -51,7 +51,6 @@ Realizar la simulación y configuración de la red universitaria en un entorno d
 | Institution: | Fundación Universitaria Konrad Lorenz |
 | Institutional email | david.gutierrec@konradlorenz.edu.co |
   
-
 ## Created By:
     https://github.com/dg2c4
     
