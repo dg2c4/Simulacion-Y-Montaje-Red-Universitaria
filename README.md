@@ -1,6 +1,6 @@
 # *Simulación-Y-Montaje-Red-Universitaria*
 <p align="center">
-  <img width="800" height="450" src="https://github.com/dg2c4/Simulacion-Y-Montaje-Red-Universitaria/blob/main/Assets/CicoPacketNetwork.webp" alt="Redes">
+  <img width="800" height="500" src="https://github.com/dg2c4/Simulacion-Y-Montaje-Red-Universitaria/blob/main/Assets/CicoPacketNetwork.webp" alt="Redes">
 </p>
 
 ## Link del trabajo realizado:
