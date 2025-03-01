@@ -1,6 +1,6 @@
 # *Simulación-Y-Montaje-Red-Universitaria*
 <p align="center">
-  <img width="700" height="450" src="https://github.com/dg2c4/Simulacion-Y-Montaje-Red-Universitaria/blob/main/Assets/RedesSolution.png" alt="Redes">
+  <img width="700" height="450" src="https://github.com/dg2c4/Simulacion-Y-Montaje-Red-Universitaria/blob/main/Assets/CicoPacketNetwork.png" alt="Redes">
 </p>
 
 ## Link del trabajo realizado:
@@ -11,7 +11,7 @@ Realizar la simulación y configuración de la red universitaria en un entorno d
 *Nota: Leer la documentación adjunta del "Accest".*
 
 <p align="center">
-  <img width="700" height="350" src="https://github.com/dg2c4/Simulacion-Y-Montaje-Red-Universitaria/blob/main/Assets/Redes.png" alt="Redes-Guía">
+  <img width="700" height="450" src="https://github.com/dg2c4/Simulacion-Y-Montaje-Red-Universitaria/blob/main/Assets/RedesSolution.png" alt="Redes">
 </p>
 
 ## *Instalaciones requeridas:*
