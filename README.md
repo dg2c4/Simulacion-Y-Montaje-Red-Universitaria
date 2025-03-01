@@ -3,9 +3,6 @@
   <img width="800" height="500" src="https://github.com/dg2c4/Simulacion-Y-Montaje-Red-Universitaria/blob/main/Assets/CicoPacketNetwork.webp" alt="Redes">
 </p>
 
-## Link del trabajo realizado:
-    https://youtu.be/
-
 ## *Objetivo:* 
 Realizar la simulación y configuración de la red universitaria en un entorno de simulación Packet Tracer, asegurando que se cumplan los requisitos asignados en el taller guía.\
 *Nota: Leer la documentación adjunta del "Accest".*
