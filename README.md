@@ -7,10 +7,6 @@
 Realizar la simulación y configuración de la red universitaria en un entorno de simulación Packet Tracer, asegurando que se cumplan los requisitos asignados en el taller guía.\
 *Nota: Leer la documentación adjunta del "Accest".*
 
-<p align="center">
-  <img width="700" height="450" src="https://github.com/dg2c4/Simulacion-Y-Montaje-Red-Universitaria/blob/main/Assets/RedesSolution.png" alt="Redes">
-</p>
-
 ## *Instalaciones requeridas:*
   • Descarga de Cisco Packet Tracer:
   
