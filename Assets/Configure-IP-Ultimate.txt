@@ -1,0 +1,23 @@
+en
+configure ter
+
+interface FastEthernet 0/0
+ip address 192.168.0.254 255.255.255.0
+no shutdown
+
+interface FastEthernet 1/0
+ip address 192.168.220.254 255.255.255.0
+no shutdown
+
+interface FastEthernet 2/0
+ip address 192.168.200.254 255.255.255.0
+no shutdown
+
+interface FastEthernet 3/0
+ip address 192.168.230.254 255.255.255.0
+no shutdown
+exit
+
+interface FastEthernet 4/0
+ip address 192.168.250.254 255.255.255.0
+no shutdown

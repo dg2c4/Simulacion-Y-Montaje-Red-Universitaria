@@ -1,0 +1,20 @@
+interface gigabitEthernet 0/0
+ip address 192.168.0.1 255.255.255.0
+no shutdown
+
+interface gigabitEthernet 1/0
+ip address 192.168.220.1 255.255.255.0
+no shutdown
+
+interface gigabitEthernet 2/0
+ip address 192.168.200.1 255.255.255.0
+no shutdown
+
+interface gigabitEthernet 3/0
+ip address 192.168.230.1 255.255.255.0
+no shutdown
+exit
+
+interface gigabitEthernet 4/0
+ip address 192.168.250.1 255.255.255.0
+no shutdown
